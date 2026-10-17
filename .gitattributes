@@ -1,0 +1,4 @@
+*.CWR filter=lfs diff=lfs merge=lfs -text
+*.GEN filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.DOCX filter=lfs diff=lfs merge=lfs -text
