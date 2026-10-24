@@ -1,0 +1,5 @@
+# File kết quả mô phỏng SolidWorks (quá lớn cho GitHub)
+*.CWR
+
+# File khóa/tạm của SolidWorks, Office
+~$*
